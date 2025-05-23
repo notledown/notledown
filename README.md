@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm just a tech enthusiast, building my skills and working on a selfhosting homelab.
+
+🌱 I’m currently learning about Git & GitHub, Linux servers, Docker, and system security.
 <!--
 **notledown/notledown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
